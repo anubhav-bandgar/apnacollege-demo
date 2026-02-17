@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author - Anubhav Bandgar 
+Author - Anubhav Sanjay Bandgar  
